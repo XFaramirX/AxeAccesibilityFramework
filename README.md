@@ -1,3 +1,17 @@
 # AxeAccesibilityFramework
-To locally execute all tests : yarn cypress:run
-To visually see test run : yarn cypress:open and select component to test.
+Cypress Axe accesibility check
+### Installation
+Install the dependencies and devDependencies.
+```
+$ yarn install
+```
+### Execute Test
+Run all tests
+```
+$ yarn cypress:run
+```
+
+Run visually single or all test
+```
+$ yarn cypress:open
+```
