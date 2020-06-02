@@ -1,0 +1,10 @@
+{
+  "component": "Product Carousel",
+  "variations": [
+    {
+      "name": "Product-carousel",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-sections-product-carousel/02-organisms-sections-product-carousel.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-product-carousel"
+    }
+  ]
+}

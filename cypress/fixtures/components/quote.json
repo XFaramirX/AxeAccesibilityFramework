@@ -1,0 +1,10 @@
+{
+  "component": "Quote",
+  "variations": [
+    {
+      "name": "Quote",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-quote/01-molecules-text-quote.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-quote"
+    }
+  ]
+}

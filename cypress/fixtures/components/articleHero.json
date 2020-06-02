@@ -1,0 +1,25 @@
+{
+  "component": "Article Hero",
+  "variations": [
+    {
+      "name": "Hero-Basic",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic/02-organisms-heros-hero-basic.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic"
+    },
+    {
+      "name": "Hero-basic-3x4-2up-texture",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-3x4-2up-texture/02-organisms-heros-hero-basic-3x4-2up-texture.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-3x4-2up-texture"
+    },
+    {
+      "name": "Hero-basic-1x1",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-1x1/02-organisms-heros-hero-basic-1x1.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-1x1"
+    },
+    {
+      "name": "Hero-basic-8x5",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-8x5/02-organisms-heros-hero-basic-8x5.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-8x5"
+    }
+  ]
+}

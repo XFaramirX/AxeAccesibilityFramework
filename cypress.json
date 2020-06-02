@@ -1,0 +1,14 @@
+{
+  "baseUrl": "https://brooks-pattern-library-refresh-qa.azurewebsites.net",
+  "env": {},
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "ignoreTestFiles": [
+    "**/gearHighlight.js",
+    "**/productCarousel.js",
+    "**/recommendedContent.js",
+    "**/socialMediaShare.js"
+  ],
+  "theme": "dark",
+  "darkMediaQuery": false,
+  "video": false
+}

@@ -1,0 +1,10 @@
+{
+  "component": "Author Card",
+  "variations": [
+    {
+      "name": "Author card-simple",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-blocks-author-card/01-molecules-blocks-author-card.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-author-card"
+    }
+  ]
+}

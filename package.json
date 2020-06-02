@@ -1,0 +1,15 @@
+{
+  "name": "hackathonapplitools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^4.7.0",
+    "cypress-axe": "^0.8.1",
+    "cypress-dark": "^1.7.14"
+  }
+}

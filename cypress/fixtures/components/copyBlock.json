@@ -1,0 +1,35 @@
+{
+  "component": "Copy Block",
+  "variations": [
+    {
+      "name": "Copy-block",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block/01-molecules-text-copy-block.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block",
+      "selector": ".u-container--copy-block"
+    },
+    {
+      "name": "Copy-block-one-cta",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-one-cta",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-one-cta/01-molecules-text-copy-block-one-cta.rendered.html",
+      "selector": ".u-container--copy-block"
+    },
+    {
+      "name": "Copy-block-center",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-center/01-molecules-text-copy-block-center.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-center",
+      "selector": ".u-container--copy-block"
+    },
+    {
+      "name": "Copy-block-split",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-split/01-molecules-text-copy-block-split.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-split",
+      "selector": ".u-container--copy-block"
+    },
+    {
+      "name": "Copy-block-themed",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-themed/01-molecules-text-copy-block-themed.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-themed",
+      "selector": ".u-container--copy-block"
+    }
+  ]
+}

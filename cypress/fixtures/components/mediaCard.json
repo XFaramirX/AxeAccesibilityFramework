@@ -1,0 +1,54 @@
+{
+  "component": "Media images",
+  "variations": [
+    {
+      "name": "Media Single",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card/02-organisms-media-card-media-card.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card",
+      "selector": ".o-media-card"
+    },
+    {
+      "name": "Media-card-pull-left",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-pull-left/02-organisms-media-card-media-card-pull-left.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-pull-left",
+      "selector": ".o-media-card"
+    },
+    {
+      "name": "Media-card-pull-right",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-pull-right/02-organisms-media-card-media-card-pull-right.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-pull-right",
+      "selector": ".o-media-card"
+    },
+    {
+      "name": "Media-card-three-up",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-3x4-2up-texture/02-organisms-heros-hero-basic-3x4-2up-texture.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-three-up",
+      "selector": ".o-hero--basic"
+    },
+    {
+      "name": "Media-card-two-up-large-left",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-large-left/02-organisms-media-card-media-card-two-up-large-left.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-large-left",
+      "selector": ".o-media-card"
+    },
+    {
+      "name": "Media-card-two-up-stacked-landscape",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-stacked-landscape/02-organisms-media-card-media-card-two-up-stacked-landscape.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-stacked-landscape",
+      "selector": ".o-media-card"
+    },
+    {
+      "name": "Media-card-two-up-stacked-portrait",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-stacked-portrait/02-organisms-media-card-media-card-two-up-stacked-portrait.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-stacked-portrait",
+      "selector": ".o-media-card"
+    },
+
+    {
+      "name": "Media-card-wide",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-wide/02-organisms-media-card-media-card-wide.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-wide",
+      "selector": ".o-media-card__card"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "component": "Body Copy",
+  "variations": [
+    {
+      "name": "Body Copy",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-body-copy/01-molecules-text-body-copy.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-body-copy"
+    }
+  ]
+}

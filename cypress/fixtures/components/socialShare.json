@@ -1,0 +1,10 @@
+{
+  "component": "Social Share",
+  "variations": [
+    {
+      "name": "Social-media-share",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-00-global-social-media-share/02-organisms-00-global-social-media-share.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-social-media-share"
+    }
+  ]
+}
