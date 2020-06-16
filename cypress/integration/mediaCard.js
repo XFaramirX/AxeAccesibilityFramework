@@ -17,6 +17,8 @@ context('MEDIA CARD', () => {
           cy.injectAxe();
         });
         it(`Accesibility Check`, () => {
+          cy.wait(1000);
+          cy.scrollTo('bottom');
           cy.checkA11y(`${variation.selector}`, A11Y_OPTIONS);
         });
       });

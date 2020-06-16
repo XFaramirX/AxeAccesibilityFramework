@@ -1,0 +1,20 @@
+{
+  "component": "Hero Media",
+  "variations": [
+    {
+      "name": "Hero - Media (Gradient)",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-01-hero-media/02-organisms-heros-01-hero-media.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-media"
+    },
+    {
+      "name": "Hero - Media (Block)",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-01-hero-media-block/02-organisms-heros-01-hero-media-block.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-media-block"
+    },
+    {
+      "name": "Hero-media-image-title",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-01-hero-media-image-title/02-organisms-heros-01-hero-media-image-title.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-media-image-title"
+    }
+  ]
+}

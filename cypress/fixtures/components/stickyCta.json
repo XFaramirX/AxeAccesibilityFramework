@@ -1,0 +1,10 @@
+{
+  "component": "StickyCTa",
+  "variations": [
+    {
+      "name": "Hero-Basic",
+      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/03-templates-landing/03-templates-landing.rendered.html",
+      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=templates-landing"
+    }
+  ]
+}

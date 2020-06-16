@@ -1,9 +1,9 @@
 const sizes = require('../fixtures/viewports.json');
-const PRODUCT_CAROUSEL = require('../fixtures/components/productCarousel.json');
+const HERO_MEDIA = require('../fixtures/components/heroMedia.json');
 const A11Y_OPTIONS = require('../fixtures/w3practices.json');
 
-context('PRODUCT CAROUSEL', () => {
-  PRODUCT_CAROUSEL.variations.map((variation) => {
+context('Hero Media', () => {
+  HERO_MEDIA.variations.map((variation) => {
     sizes.forEach((size) => {
       // make assertions on the component fron an array of ifferent viewports
       describe(`${variation.name} ${size}`, () => {
@@ -17,7 +17,8 @@ context('PRODUCT CAROUSEL', () => {
           cy.injectAxe();
         });
         it(`Accesibility Check`, () => {
-          cy.checkA11y('.o-carousel--product', A11Y_OPTIONS);
+          cy.wait(1000);
+          cy.checkA11y('.body', A11Y_OPTIONS);
         });
       });
     });

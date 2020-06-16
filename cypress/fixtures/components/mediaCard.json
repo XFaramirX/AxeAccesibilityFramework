@@ -20,12 +20,6 @@
       "selector": ".o-media-card"
     },
     {
-      "name": "Media-card-three-up",
-      "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-3x4-2up-texture/02-organisms-heros-hero-basic-3x4-2up-texture.rendered.html",
-      "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-three-up",
-      "selector": ".o-hero--basic"
-    },
-    {
       "name": "Media-card-two-up-large-left",
       "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-large-left/02-organisms-media-card-media-card-two-up-large-left.rendered.html",
       "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-large-left",
@@ -35,7 +29,7 @@
       "name": "Media-card-two-up-stacked-landscape",
       "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-stacked-landscape/02-organisms-media-card-media-card-two-up-stacked-landscape.rendered.html",
       "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-stacked-landscape",
-      "selector": ".o-media-card"
+      "selector": ".o-media-card__card"
     },
     {
       "name": "Media-card-two-up-stacked-portrait",
